@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IrmaFirma
-- 👀 I’m interested in Competitive Programming and Mobile App Dev
+- 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me via Instagram: @thelitcode and mail: info@litcode.net

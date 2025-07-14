@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @IrmaFirma
-- 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me via Instagram: @thelitcode and mail: info@litcode.net
+## 👩‍💻 About Me
 
-<!---
-IrmaFirma/IrmaFirma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a freshman at **NYU Abu Dhabi**, majoring in **Computer Science**. I have been passionate about coding since I was **12 years old**, gaining hands-on experience in:
+
+- Mobile Development  
+- Web Development  
+- Full Stack Development  
+- Competitive Programming  
+- Design  
+
+Currently, I maintain a coding project called **LitCode**, which is soon evolving into **Firmacodes** — a work in progress aimed at showcasing my growth and projects in software engineering.
+
+I’m dedicated to continuous learning and excited to prepare for internships and real-world software challenges!

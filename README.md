@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-I am a freshman at **NYU Abu Dhabi**, majoring in **Computer Science**. I have been passionate about coding since I was **12 years old**, gaining hands-on experience in:
+I am a student at **NYU Abu Dhabi**, majoring in **Computer Science**. I have been passionate about coding since I was **12 years old**, gaining hands-on experience in:
 
 - Mobile Development  
 - Web Development  
